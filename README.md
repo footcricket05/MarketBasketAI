@@ -12,12 +12,10 @@ The dataset used in this project is the Online Retail dataset, which contains sa
 ## Requirements
 
 1. Python 3.6 or higher
-2. 
-3. Pandas
-4. 
-5. NumPy
-6. 
-7. mlxtend
+
+2. Pandas
+
+3. NumPy
 
 
 
@@ -52,5 +50,6 @@ The market basket analysis was able to identify several product associations wit
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback.
 
+
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
