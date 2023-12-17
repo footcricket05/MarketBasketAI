@@ -32,7 +32,7 @@ cd Market-Basket-Analysis-ML
 
 Install the required libraries:
 ```
-pip install -r requirements.txt
+pip install apyori 
 ```
 
 Open the market_basket_analysis.ipynb Jupyter Notebook:
